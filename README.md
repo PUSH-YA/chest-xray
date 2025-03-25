@@ -3,7 +3,7 @@
 ### Team Members:
 - Ethan Rajkumar
 - Joel Bonnie
-- Pushya Jain
+- Pushya Jain (Main contributions: Pinecone ETL, feature extraction using EfficientNet-v5, dimension reduction using PCA/AutoEncoder)
 - Erhan Javed
 - Vivaan Jhaveri 
 - Charity Grey
