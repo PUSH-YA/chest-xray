@@ -30,6 +30,8 @@ Chest X-rays, a primary diagnostic tool for identifying thoracic diseases, are t
 
 ![image](https://github.com/user-attachments/assets/dbb47c4c-53ab-4a52-98bb-8e5f0efeac0b)
 
+Google slides link: [pdf link](https://drive.google.com/file/d/1daP3G0xtcFt3-vXyv5-XH6YavAcAN3oY/view?usp=sharing)
+
 ## Overall metrics for positive classes:
 - Overall positive recall: 0.1135
 - Overall positive precision: 0.3384
